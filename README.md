@@ -8,7 +8,6 @@ Arcane Arena is a Java action game set in a mysterious floating arena. Fight wav
 
 ![Arcane Arena gameplay](docs/gameplay.png)
 
-![Arcane Arena gameplay - alternate view](docs/gameplay-2.png)
 
 
 ## Features
